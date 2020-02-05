@@ -1,0 +1,30 @@
+
+body{
+	background: linear-gradient(to right, #780206, #061161);
+}
+
+#dis{
+	position: relative;
+    margin-top: 22vh;
+    top: 50%;
+    left:40%
+	
+}
+#image{
+    width:20vw;
+    margin-left:6vh;
+}
+
+#buttons{
+    margin-top: 1vh;
+}
+
+#track,#artist{
+	text-align: center;
+    color:#ffffff;
+    margin-right: 163vh
+}
+
+#track{
+	    font-size: 20px
+}
